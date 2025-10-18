@@ -54,3 +54,6 @@ This repository contains computer vision algorithms and implementations develope
 
 ## Usage
 Each script can be run independently for testing specific computer vision functionalities. Most scripts support both static image processing and real-time camera feed processing.
+
+## Testing Data
+**Note:** Visit previous commits to access testing image data that was used during development. The image files have been removed from the current repository but are available in the git history.
